@@ -5,12 +5,11 @@
 ## 개발 환경
 - 개인 서버(워크스테이션급)와 맥미니를 활용하여 서버 환경을 구축
 - 인프라 
-  - mysql
-  - jenkins
-  - redis 
-  - InfluxDB(미정)
-  - logstash(미정)
-  - OpenSearch(미정)
+  - mysql(RAM 4g)
+  - jenkins(RAM 4g)
+  - redis(RAM 4g) 
+  - logstash(RMA 4g)
+  - OpenSearch(RMA 16g)
 
 ## 토이 프로젝트 주제
 - 당근마켓을 타겟으로 클론 코딩을 진행!
