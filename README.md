@@ -9,7 +9,7 @@
   - jenkins(RAM 4g)
   - redis(RAM 4g) 
   - logstash(RMA 4g)
-  - OpenSearch(RMA 16g)
+  - ElasticSearch(RMA 16g)
 
 ## 토이 프로젝트 주제
 - 당근마켓을 타겟으로 클론 코딩을 진행!
